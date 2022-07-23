@@ -1,6 +1,6 @@
-# Hi there 👋, My name is V0idMatr1x
+# Hello Stranger 💻, My name is V0idMatr1x
 
-My Interests: Systems Programming, Automation, Cybersecurity, and Web Technologies.
+My Interests are: Systems Programming, Automation, Cybersecurity, and Web Technologies.
 
 ## 💫 Liitle Bit More About Me
 <p>🌱 I'm currently learning Rust in depth!</p>
