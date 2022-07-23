@@ -1,7 +1,5 @@
 # Hi there 👋, My name is V0idMatr1x
 
-<img width="100%" src="https://imgur.com/a/k5jMvsQ" alt="my banner">
-
 My Interests: Systems Programming, Automation, Cybersecurity, and Web Technologies.
 
 ## 💫 Liitle Bit More About Me
