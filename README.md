@@ -1,4 +1,4 @@
-# Hello Stranger 💻, My name is V0idMatr1x
+# Hello Stranger 💻
 
 My Interests are: Systems Programming, Automation, Cybersecurity, and Web Technologies.
 
