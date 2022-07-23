@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi there 👋, My name is V0idMatr1x
 
-<!--
-**V0idMatr1x/V0idMatr1x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="100%" src="https://imgur.com/a/k5jMvsQ" alt="my banner">
 
-Here are some ideas to get you started:
+My Interests: Systems Programming, Automation, Cybersecurity, and Web Technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💫 Liitle Bit More About Me
+<p>🌱 I'm currently learning Rust in depth!</p>
+<p>How to reach me? <a href="mailto:matr1xware@v0idmatr1x.com">📨<a></p> 
+<p>My site, <a href="https://v0idmatr1x.com/"> I wrote it with Yew in Rust, it is blazingly fast! 🚀</a></p>
+<p>⚡ Fun Fact: I play Star Citizen now and then!</p>
+
+## 💻 Skills
+<p>
+  [Rust, C/C++, Python, Nim, React, JavaScript/TypeScript, Linux, Scripting, Systems Programming, Automation]
+</p>
