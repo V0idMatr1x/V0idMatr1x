@@ -1,3 +1,4 @@
+# ![Banner](https://media4.giphy.com/media/FWNRFnjjl9PQZP3cb5/200.gif)
 # Hello Stranger 💻, Welcome To My Repo! 
 
 My Interests are: Systems Programming, Automation, Cybersecurity, and Web Technologies.
