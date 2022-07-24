@@ -11,5 +11,5 @@ My Interests are: Systems Programming, Automation, Cybersecurity, and Web Techno
 
 ## 💻 Skills
 <p>
-  😎 Rust, C/C++, Python, Nim, React, JavaScript/TypeScript, Linux, Scripting, Systems Programming, Automation
+  😎 Rust, C/C++, Python, Nim, React, JavaScript/TypeScript, Linux, Scripting, Systems Programming, Automation, Web
 </p>
