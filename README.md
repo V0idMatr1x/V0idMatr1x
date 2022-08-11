@@ -13,5 +13,5 @@ My Interests are: Systems Programming, Automation, Cybersecurity, Binary Analysi
 ##
 ## 😎 Skills
 <p>
-   Rust, C/C++, Python, Nim, React, JavaScript/TypeScript | Linux, Scripting, Systems Programming, Automation, Web
+   Rust, Python, Nim, React, JavaScript/TypeScript | Linux, Scripting, Systems Programming, Automation, Web
 </p>
