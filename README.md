@@ -1,11 +1,6 @@
-# ![Banner](https://media4.giphy.com/media/FWNRFnjjl9PQZP3cb5/200.gif)
-# Hello Stranger 💻, Welcome To My Repo! 
+# Hi there, welcome to my Repo!
 
 My Interests are: Systems Programming, Automation, Cybersecurity, Binary Analysis, and Web Technologies.
-
-## 🔍 Little Bit More About Me
-
-<p>🤖 I'm currently learning Rust in depth!</p>
 
 <p>🚀 My site, <a href="https://v0idmatr1x.com/"> I wrote it with Yew in Rust; it is blazingly fast!</a></p>
 
