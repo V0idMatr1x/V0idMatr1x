@@ -1,4 +1,4 @@
-# Hi there, welcome to my Repo!
+# Hi there, welcome to my repo!
 
 My Interests are: Systems Programming, Automation, Cybersecurity, Binary Analysis, and Web Technologies.
 
