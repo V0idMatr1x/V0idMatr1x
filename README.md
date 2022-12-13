@@ -1,6 +1,5 @@
 # Hi there, welcome to my repo!
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v0idmatr1x)](https://github.com/v0idmatr1x/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=v0idmatr1x&show_icons=true&theme=dark"/>
 
 ## My Interests are: Systems Programming, Automation, Cybersecurity, Binary Analysis, and Web Technologies.
 
