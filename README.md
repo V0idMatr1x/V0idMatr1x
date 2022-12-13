@@ -4,5 +4,5 @@
 
 ### 😎 Skills
 <p>
-   Rust, Python, Nim, React, JavaScript/TypeScript | Linux, Scripting, Systems Programming, Automation, Web
+   Rust, Nim, Python, JavaScript/TypeScript | Linux, Scripting, Systems Programming, Automation, Web
 </p>
