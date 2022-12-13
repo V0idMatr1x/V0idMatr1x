@@ -1,5 +1,6 @@
 # Hi there, welcome to my repo!
-<img src="https://github-readme-stats.vercel.app/api?username=v0idmatr1x&show_icons=true&theme=dark"/>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=v0idmatr1x&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My Interests are: Systems Programming, Automation, Cybersecurity, Binary Analysis, and Web Technologies.
 
