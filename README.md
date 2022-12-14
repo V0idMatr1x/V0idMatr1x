@@ -13,4 +13,4 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=v0idmatr1x&theme=tokyonight&repo=simplefetch)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=v0idmatr1x&theme=tokyonight&repo=cryptoview)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=v0idmatr1x&theme=tokyonight&repo=cryptoview)](https://github.com/V0idMatr1x/CryptoView)
